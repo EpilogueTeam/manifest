@@ -1,8 +1,14 @@
+> \[!IMPORTANT]
+>
+> use [vscode-conventional-commits](https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits) to easly make good commits<br>
+> ![commit](commit.png)<br>
+> demo can be found at the end of the page
+
 ### How to commit:
 
 1. most important: good commit message
 2. use prefixes
-2. write lowercase, reference pr's and do not add a dot at the end
+3. write lowercase, reference pr's and do not add a dot at the end
 
 why prefixes?
 
@@ -41,3 +47,10 @@ scoped prefixes (optional):
 - `feat(auth): add OAuth support`
 - `fix(api): handle null response error`
 - `docs(readme): update installation instructions`
+
+with the vscode-conventional-commits extension from above you can also easly add emojis (or just write :rocket: for example after the prefix).<br>
+`fix: :rocket: 3.. 2.. 1.. launch`
+![rocket](rocket.png)<br>
+all emojis can be found [here](https://gitmoji.dev/)
+
+![demo](demo.gif)
