@@ -49,7 +49,7 @@ scoped prefixes (optional):
 - `docs(readme): update installation instructions`
 
 with the vscode-conventional-commits extension from above you can also easly add emojis (or just write :rocket: for example after the prefix).<br>
-`fix: :rocket: 3.. 2.. 1.. launch`
+`fix: :rocket: 3.. 2.. 1.. launch`<br>
 ![rocket](rocket.png)<br>
 all emojis can be found [here](https://gitmoji.dev/)
 
