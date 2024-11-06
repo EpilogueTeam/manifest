@@ -14,6 +14,7 @@ looks better and helps searchign commits faster
 `fix(this): test`<br>
 ![fix(this): test](fix_scope.png)<br>
 
+`all prefixes:`<br>
 ![all](all.png)
 
 example commit message with prefix: `fix: wrong api url`
