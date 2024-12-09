@@ -7,12 +7,12 @@
 ### How to commit:
 
 1. most important: good commit message
-2. use prefixes
+2. use prefixes (use https://github.com/refined-github/refined-github so it looks better)
 3. write lowercase, reference pr's and do not add a dot at the end
 
 why prefixes?
 
-looks better and helps searchign commits faster
+Looks better (if you use https://github.com/refined-github/refined-github) and helps searching commits faster
 
 `fix: test`<br>
 ![fix: test](fix.png)<br>
